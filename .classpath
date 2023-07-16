@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="res"/>
+	<classpathentry kind="lib" path="lib/json-simple-1.1.1.jar"/>
+	<classpathentry kind="lib" path="lib/SoundSystemJPCT.jar"/>
+	<classpathentry kind="lib" path="lib/LibraryJavaSound.jar"/>
+	<classpathentry kind="lib" path="lib/LibraryLWJGLOpenAL.jar"/>
+	<classpathentry kind="lib" path="lib/CodecIBXM.jar"/>
+	<classpathentry kind="lib" path="lib/CodecJOgg.jar"/>
+	<classpathentry kind="lib" path="lib/CodecJOrbis.jar"/>
+	<classpathentry kind="lib" path="lib/CodecJSpeex.jar"/>
+	<classpathentry kind="lib" path="lib/CodecWav.jar"/>
+	<classpathentry kind="lib" path="lib/LibraryJOAL.jar"/>
+	<classpathentry kind="lib" path="lib/TimingFramework-0.55.jar"/>
+	<classpathentry kind="lib" path="lib/gluegen-rt.jar"/>
+	<classpathentry kind="lib" path="lib/gluegen-rt-natives-linux-amd64.jar"/>
+	<classpathentry kind="lib" path="lib/gluegen-rt-natives-linux-armv6.jar"/>
+	<classpathentry kind="lib" path="lib/gluegen-rt-natives-linux-armv6hf.jar"/>
+	<classpathentry kind="lib" path="lib/gluegen-rt-natives-linux-i586.jar"/>
+	<classpathentry kind="lib" path="lib/gluegen-rt-natives-macosx-universal.jar"/>
+	<classpathentry kind="lib" path="lib/gluegen-rt-natives-solaris-amd64.jar"/>
+	<classpathentry kind="lib" path="lib/gluegen-rt-natives-solaris-i586.jar"/>
+	<classpathentry kind="lib" path="lib/gluegen-rt-natives-windows-amd64.jar"/>
+	<classpathentry kind="lib" path="lib/gluegen-rt-natives-windows-i586.jar"/>
+	<classpathentry kind="lib" path="lib/jogl-all.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/home/viktor/Dokumente/java/Game/lib%20opengl/jogl/javadoc/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/jogl-all-natives-linux-amd64.jar"/>
+	<classpathentry kind="lib" path="lib/jogl-all-natives-linux-armv6.jar"/>
+	<classpathentry kind="lib" path="lib/jogl-all-natives-linux-armv6hf.jar"/>
+	<classpathentry kind="lib" path="lib/jogl-all-natives-linux-i586.jar"/>
+	<classpathentry kind="lib" path="lib/jogl-all-natives-macosx-universal.jar"/>
+	<classpathentry kind="lib" path="lib/jogl-all-natives-solaris-amd64.jar"/>
+	<classpathentry kind="lib" path="lib/jogl-all-natives-solaris-i586.jar"/>
+	<classpathentry kind="lib" path="lib/jogl-all-natives-windows-amd64.jar"/>
+	<classpathentry kind="lib" path="lib/jogl-all-natives-windows-i586.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
