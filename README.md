@@ -8,5 +8,5 @@
 + Es ist **verboten** dieses Projekt **unter falschem Namen** zu verbreiten!
 + Wenn Sie trotzdem das Projekt teilen möchten, dann **geben Sie den Autor an** und verlinken Sie zu der originalen [GitHub Respository](https://github.com/thevicraft/java-pixel-game)!
 
-### Autor
-Die Engine ist von Viktor Altergott im Rahmen der BLL von Februar 2022 bis Juli 2023 entwickelt worden.
+### Information
+Die Engine ist im Rahmen der BLL von Februar 2022 bis Juli 2023 entwickelt worden.
